@@ -1,0 +1,32 @@
+style {
+    background-color:purple;
+   
+}
+body{
+    background-color: #810404;
+
+}
+
+
+img{
+
+
+    width: 350px;
+    
+}
+#parent-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    row-gap: 30px;
+    flex-wrap: wrap;
+}
+.child1{
+
+    background-color: wheat;
+    border-radius: 5%;
+}
+
+
+
+
