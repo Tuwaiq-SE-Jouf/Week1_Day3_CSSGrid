@@ -1,0 +1,10 @@
+.gallery{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+margin: 50px;
+}
+     .child{
+    width:100px
+    height: 100px
+     }
