@@ -1,0 +1,35 @@
+body{
+    padding: 100px;
+    background-color: blanchedalmond;
+}
+
+#BigDiv{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: rgb(136, 106, 70);
+    
+}
+img{width: 200px;
+height: 200px;
+padding: 50px;}
+div{margin: 13px;}
+a{color: blue;
+    width: 200px;
+    height: 200px;
+    padding: 39px;
+}
+p{
+    font-size: 20px;
+    justify-items: left;
+    text-align: left;
+    padding: 15px;
+}
+
+
+@media screen and (max-width: 1000px){
+
+
+    #BigDiv{ grid-template-columns: 1fr 1fr;
+
+    }
+}
