@@ -1,0 +1,18 @@
+
+
+#parent{
+display: grid;
+
+column-gap: 20px;
+row-gap: 20px;
+grid-row-gap: 5px;
+}
+
+div{
+    text-align: center;
+    
+   
+    column-gap: 20px;
+    row-gap: 20px;
+    background-color: white;
+}
