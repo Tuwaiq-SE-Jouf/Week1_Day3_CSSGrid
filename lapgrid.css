@@ -1,0 +1,23 @@
+img{
+    width: 200px;
+    padding: 10px;
+    height: 200px;
+    margin: 1em;
+    
+}
+h2{
+    color:gray;
+    padding-left: 5px;
+    text-align: center;
+}
+p{
+    color:gray;
+
+}
+
+
+.gridGrid1{
+    background-color:white;
+    margin: 40px;
+    text-align: center;
+}
