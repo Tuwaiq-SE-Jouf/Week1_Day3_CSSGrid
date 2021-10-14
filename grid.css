@@ -27,6 +27,12 @@ img{
     border-radius: 5%;
 }
 
+@media screen and (max-width:1000px){
+    #class{
+        grid-template-columns: 1fr ;
+    
+    }
 
-
+}
+    
 
