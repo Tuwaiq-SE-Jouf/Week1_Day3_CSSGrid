@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\T100\\week01_day02_CSS1\\.vscode"
+		},
+		{
+			"path": "..\\Tw1000\\Week1_Day3_CSSGrid"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "Week1_Day3_CSSGrid"
+	}
+}
